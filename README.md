@@ -10,4 +10,4 @@
 <p> <b>To deploy the project to rinkeby</b>,<br> create a .env file containing some variable declarations
   <br>STAGING_ALCHEMY_KEY= 'YOUR ALCHEMY KEY' <br>
 PRIVATE_KEY='YOUR PRIVATE KEY' <br>go to scripts/deploy.js.js and set the variable timeIntervalInMins to any preferred number<br>
-  run the command npx hardhat run scripts/deploy.js on the terminal(The contract uses ATRAC token by default) <p>  
+  run the command npx hardhat run scripts/deploy.js --network rinkeby on the terminal(The contract uses ATRAC token by default) <p>  
