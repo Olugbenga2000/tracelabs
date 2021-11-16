@@ -5,7 +5,7 @@
 <b>test</b> -- The test folder contains the test file written for this project . <br> To test the contracts, run npx hardhat test
 
 <p> <b>To deploy the project locally</b>, go to scripts/run.js and set the variable timeIntervalInMins to any preferred number. <br>
-  <p> For local deployment we allow the token address to be set in constructor while the ATRAC token address was hardcoded in therinkeby testnet contract version</p>
+  <p> For local deployment we allow the token address to be set in constructor while ATRAC token address was hardcoded in the rinkeby testnet contract version</p>
   run the command--- npx hardhat run scripts/run.js on the terminal <p>
   
 <p> <b>To deploy the project to rinkeby</b>,<br> create a .env file containing some variable declarations
