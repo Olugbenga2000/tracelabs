@@ -1,8 +1,8 @@
 <h3>This project is a hardhat project.</h3>
 <h5> After cloning this repo, run npm install to download all the dependencies required for this project</h5><br>
 <h2>Directories</h2>
-<b>contract</b> -- The contract folder contains all the smart contracts written for this project . <br> To compile the contracts, run hardhat compile<br>
-<b>test</b> -- The test folder contains the test file written for this project . <br> To test the contracts, run hardhat test<br>
+<b>contract</b> -- The contract folder contains all the smart contracts written for this project . <br> To compile the contracts, run npx hardhat compile<br>
+<b>test</b> -- The test folder contains the test file written for this project . <br> To test the contracts, run npx hardhat test<br>
 
 <p> <b>To deploy the project locally</b>, go to scripts/run.js and set the variable timeIntervalInMins to any preferred number. <br>
   run the command npx hardhat run scripts/run.js on the terminal <p>
