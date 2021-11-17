@@ -1,5 +1,5 @@
 <h3>This project is a hardhat project.</h3>
-<h5> After cloning this repo, run `npm install` to download all the dependencies required for this project</h5>
+<h5> After cloning this repo, run npm install to download all the dependencies required for this project</h5>
 <h2>Directories</h2>
 <b>contract</b> -- The contract folder contains all the smart contracts written for this project . <br> To compile the contracts, run-- npx hardhat compile<br>
 <b>test</b> -- The test folder contains the test file written for this project . <br> To test the contracts, run npx hardhat test
